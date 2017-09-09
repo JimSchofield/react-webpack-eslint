@@ -7,8 +7,7 @@ export default class App extends React.Component {
     return (
       <div>
         <h1>Simple webpack-react outline</h1>
-        <p>ERROR!</p>
-        It works!
+        <p>this is the beginning of your app</p>
       </div>
     );
   }
